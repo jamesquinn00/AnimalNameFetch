@@ -1,0 +1,20 @@
+button{
+    margin-top: 10px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    margin: auto;
+}
+
+section{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
